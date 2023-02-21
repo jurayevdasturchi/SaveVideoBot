@@ -1,0 +1,77 @@
+[
+    {
+        "id": 2012098674,
+        "first_name": "Davlat Jo'rayev",
+        "username": "jurayevlive",
+        "language": "rus",
+        "SuperAdmin": true,
+        "admin": true
+    },
+    {
+        "id": 5150086374,
+        "first_name": "Yoqubjon",
+        "username": "yoqubjonovvv",
+        "language": "rus"
+    },
+    {
+        "id": 1052630489,
+        "first_name": "Ismoil",
+        "username": "Ismoil4432",
+        "language": "uzb"
+    },
+    {
+        "id": 258030605,
+        "first_name": "Fakhriddin",
+        "username": "Fakhriddin_Abduraimov",
+        "language": "eng"
+    },
+    {
+        "id": 872101596,
+        "first_name": "azιzĸнon",
+        "username": "azizkhon_muzaffarov",
+        "language": "uzb"
+    },
+    {
+        "id": 1921865803,
+        "first_name": "️Farruxbek",
+        "username": "FarruxbekDev",
+        "language": "uzb"
+    },
+    {
+        "id": 1984793670,
+        "first_name": "𝚊𝚋𝚍𝚞𝚔𝚊𝚛𝚒𝚖𝚘𝚟",
+        "username": "M_Mumtozbekovich",
+        "language": "uzb"
+    },
+    {
+        "id": 669748776,
+        "first_name": "Kamoliddin1",
+        "username": "Kamoliddin_Abduraimov",
+        "language": "uzb"
+    },
+    {
+        "id": 1946630898,
+        "first_name": "Orifjonov",
+        "username": "zloyevil",
+        "language": "uzb"
+    },
+    {
+        "id": 1027169244,
+        "first_name": "Quvondiq",
+        "username": "JumaboyevQuvondiq",
+        "language": "uzb"
+    },
+    {
+        "id": 727985323,
+        "first_name": "xasan.me",
+        "username": "xasan_me",
+        "language": "rus"
+    },
+    {
+        "id": 933730482,
+        "first_name": "Jo'r@bek",
+        "username": "aspire1997",
+        "language": "uzb",
+        "admin": false
+    }
+]
